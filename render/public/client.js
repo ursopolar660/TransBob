@@ -1,7 +1,7 @@
-// Conecta ao nosso servidor backend via Socket.io
+// Conecta ao servidor backend via Socket.io
 const socket = io();
 
-// --- SELEÇÃO DOS ELEMENTOS DO DOM ---
+// --- ELEMENTOS DO DOM ---
 const speedElement = document.getElementById('speed');
 const rpmElement = document.getElementById('rpm');
 const gearElement = document.getElementById('gear');
@@ -13,87 +13,74 @@ const estimatedDistanceElement = document.getElementById('estimatedDistance');
 const jobIncomeElement = document.getElementById('jobIncome');
 const deliveryLogBody = document.getElementById('delivery-log-body');
 
-// --- VARIÁVEIS DE ESTADO E DADOS DO HISTÓRICO ---
+// --- VARIÁVEIS DE ESTADO ---
 let deliveryLog = [];
 try {
     deliveryLog = JSON.parse(localStorage.getItem('ets2DeliveryLog')) || [];
 } catch (e) {
-    console.error("Erro ao carregar histórico.", e);
-    deliveryLog = [];
+    console.error("Erro ao carregar histórico:", e);
 }
 let isJobActive = false;
 let currentJobData = {};
 
 // --- FUNÇÕES AUXILIARES ---
-const saveDeliveryLog = () => {
-    localStorage.setItem('ets2DeliveryLog', JSON.stringify(deliveryLog));
-};
+const saveDeliveryLog = () => localStorage.setItem('ets2DeliveryLog', JSON.stringify(deliveryLog));
 
 const renderDeliveryLog = () => {
     deliveryLogBody.innerHTML = '';
     [...deliveryLog].reverse().forEach(job => {
         const row = document.createElement('tr');
-        const cargo = job.cargo;
-        const source = job.sourceCity;
-        const destination = job.destinationCity;
-        const income = job.income?.toLocaleString('pt-BR');
         const timestamp = job.timestamp ? new Date(job.timestamp).toLocaleString('pt-BR') : 'N/A';
         row.innerHTML = `
-            <td>${cargo}</td>
-            <td>${source}</td>
-            <td>${destination}</td>
-            <td>€ ${income}</td>
+            <td>${job.cargo}</td>
+            <td>${job.sourceCity}</td>
+            <td>${job.destinationCity}</td>
+            <td>€ ${job.income?.toLocaleString('pt-BR')}</td>
             <td>${timestamp}</td>
         `;
         deliveryLogBody.appendChild(row);
     });
 };
 
-// --- FUNÇÃO PARA ATUALIZAR PAINEL ---
+// --- ATUALIZAÇÃO DO PAINEL ---
 const updateTelemetryUI = (data) => {
     if (!data) return;
 
-    const jobNowActive = data.navigation && data.navigation.estimatedDistance > 0;
+    const jobNowActive = data.navigation?.estimatedDistance > 0;
 
-    // Início / fim de entrega
-    if (jobNowActive && !isJobActive ) {
+    // Detecta início/fim de entrega
+    if (jobNowActive && !isJobActive) {
         console.log("%cINÍCIO DE ENTREGA DETECTADO!", "color: lightgreen;");
         currentJobData = {
-            cargo: data.job?.cargoName,
-            source: data.job?.sourceCity,
-            destination: data.job?.destinationCity,
+            cargo: data.job.cargoName,
+            sourceCity: data.job.sourceCity,
+            destinationCity: data.job.destinationCity
         };
     } else if (!jobNowActive && isJobActive) {
         console.log("%cFIM DE ENTREGA DETECTADO! Salvando...", "color: red;");
-
         const finishedJob = {
             ...currentJobData,
             income: data.truck.lastJobIncome ?? 0,
             timestamp: new Date().toISOString()
         };
-
         deliveryLog.push(finishedJob);
         saveDeliveryLog();
         renderDeliveryLog();
-        
         currentJobData = {};
     }
     isJobActive = jobNowActive;
 
-    // --- Atualização do painel em tempo real ---
-    if (data && data.truck) {
-        const speedKph = data.truck.speed ?? 0;
-        const engineRpm = data.truck.engineRpm ?? 0;
-        const currentGear = data.truck.displayedGear ?? 0;
-        const fuelValue = data.truck.fuel ?? 0;
-        const fuelCapacity = data.truck.fuelCapacity ?? 1;
-        speedElement.innerText = speedKph.toFixed(0);
+    // Atualiza painel em tempo real
+    if (data.truck) {
+        const { speed = 0, engineRpm = 0, displayedGear = 0, fuel = 0, fuelCapacity = 1 } = data.truck;
+        speedElement.innerText = speed.toFixed(0);
         rpmElement.innerText = engineRpm.toFixed(0);
-        fuelElement.innerText = fuelValue.toFixed(0);
-        fuelPercentageElement.innerText = ((fuelValue / fuelCapacity) * 100).toFixed(1);
-        if (currentGear === 0) gearElement.innerText = 'N';
-        else if (currentGear < 0) gearElement.innerText = 'R';
-        else gearElement.innerText = currentGear;
+        fuelElement.innerText = fuel.toFixed(0);
+        fuelPercentageElement.innerText = ((fuel / fuelCapacity) * 100).toFixed(1);
+
+        if (displayedGear === 0) gearElement.innerText = 'N';
+        else if (displayedGear < 0) gearElement.innerText = 'R';
+        else gearElement.innerText = displayedGear;
     } else {
         speedElement.innerText = '0';
         rpmElement.innerText = '0';
@@ -102,20 +89,19 @@ const updateTelemetryUI = (data) => {
         fuelPercentageElement.innerText = '0';
     }
 
-    const jobIncome = data.job?.income ?? 0;
-    const estimatedDistance = data.navigation?.estimatedDistance ?? 0;
+    // Atualiza dados do job
     sourceCityElement.innerText = data.job?.sourceCity ?? '-';
     destinationCityElement.innerText = data.job?.destinationCity ?? '-';
-    jobIncomeElement.innerText = jobIncome.toLocaleString('pt-BR');
-    estimatedDistanceElement.innerText = estimatedDistance > 0 ? (estimatedDistance / 1000).toFixed(1) : '0';
+    jobIncomeElement.innerText = (data.job?.income ?? 0).toLocaleString('pt-BR');
+    estimatedDistanceElement.innerText = data.navigation?.estimatedDistance
+        ? (data.navigation.estimatedDistance / 1000).toFixed(1)
+        : '0';
 };
 
-// --- RECEBE DADOS DO SOCKET ---
-socket.on('telemetry-update', (data) => {
-    updateTelemetryUI(data);
-});
+// --- SOCKET ---
+socket.on('telemetry-update', updateTelemetryUI);
 
-// --- FALLBACK: SE O SOCKET NÃO ENTREGAR DADOS, CONSULTA API ---
+// --- FALLBACK: API ---
 async function fallbackFetch() {
     try {
         const res = await fetch("/telemetry");
@@ -126,7 +112,7 @@ async function fallbackFetch() {
         console.warn("Falha no fallback /telemetry:", err);
     }
 }
-setInterval(fallbackFetch, 2000); // tenta atualizar a cada 2s
+setInterval(fallbackFetch, 2000);
 
 // --- INICIALIZAÇÃO ---
 renderDeliveryLog();

@@ -1,5 +1,19 @@
-// Conecta ao servidor backend via Socket.io
+// Conecta-se ao servidor (ele descobre o endereço sozinho)
 const socket = io();
+
+// --- FEEDBACK DE CONEXÃO ---
+socket.on('connect', () => {
+    console.log('%c✅ CONECTADO!', 'color: lightgreen; font-weight: bold;', 'Ligado ao servidor do Render.com. A aguardar dados...');
+});
+
+socket.on('disconnect', () => {
+    console.error('%c❌ DESCONECTADO!', 'color: red; font-weight: bold;', 'A ligação com o servidor foi perdida.');
+});
+
+socket.on('connect_error', (err) => {
+    console.error('%c❌ ERRO DE CONEXÃO!', 'color: red; font-weight: bold;', err);
+});
+
 
 // --- ELEMENTOS DO DOM ---
 const speedElement = document.getElementById('speed');
@@ -45,6 +59,7 @@ const renderDeliveryLog = () => {
 // --- ATUALIZAÇÃO DO PAINEL ---
 const updateTelemetryUI = (data) => {
     if (!data) return;
+    console.log('%c📊 DADOS RECEBIDOS!', 'color: cyan;', data); // Log para ver os dados a chegar
 
     const jobNowActive = data.navigation?.estimatedDistance > 0;
 
@@ -57,7 +72,7 @@ const updateTelemetryUI = (data) => {
             destinationCity: data.job.destinationCity
         };
     } else if (!jobNowActive && isJobActive) {
-        console.log("%cFIM DE ENTREGA DETECTADO! Salvando...", "color: red;");
+        console.log("%cFIM DE ENTREGA DETECTADO! Salvando...", "color: orange;");
         const finishedJob = {
             ...currentJobData,
             income: data.truck.lastJobIncome ?? 0,
@@ -99,23 +114,8 @@ const updateTelemetryUI = (data) => {
 };
 
 // --- SOCKET ---
-// CORREÇÃO AQUI: Alterado de 'telemetry-update' para 'updateTelemetry'
+// Escuta o evento que o servidor envia
 socket.on('updateTelemetry', updateTelemetryUI);
-
-// --- FALLBACK: API ---
-// Observação: seu server.js não possui a rota "/telemetry", então este fallback não funcionará.
-// A comunicação principal deve ocorrer via Socket.io.
-async function fallbackFetch() {
-    try {
-        const res = await fetch("/telemetry");
-        if (!res.ok) return;
-        const data = await res.json();
-        updateTelemetryUI(data);
-    } catch (err) {
-        // console.warn("Falha no fallback /telemetry:", err); // Opcional: descomente para ver o erro no console
-    }
-}
-setInterval(fallbackFetch, 2000);
 
 // --- INICIALIZAÇÃO ---
 renderDeliveryLog();

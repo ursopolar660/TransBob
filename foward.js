@@ -1,10 +1,14 @@
+const axios = require("axios");
 const io = require("socket.io-client");
 
-// Substitua pelo domínio da sua aplicação no Render
-const renderSocket = io("https://transbob.onrender.com");
+// Conecta no servidor do Render
+const socket = io("https://seu-app-no-render.onrender.com");
 
-const localSocket = io("http://localhost:3000");
-
-localSocket.on("telemetry", (data) => {
-    renderSocket.emit("telemetry", data);
-});
+setInterval(async () => {
+  try {
+    const res = await axios.get("http://127.0.0.1:25555/api/ets2/telemetry");
+    socket.emit("telemetry", res.data);
+  } catch (err) {
+    console.log("Erro ao buscar dados locais:", err.message);
+  }
+}, 1000);

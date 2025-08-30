@@ -8,7 +8,7 @@ const fetch = require('node-fetch');
 const app = express();
 const server = http.createServer(app);
 const io = socketIo(server);
-const PORT = 3000; // Porta onde nosso painel vai rodar
+const PORT = 25555; // Porta onde nosso painel vai rodar
 
 // URL do servidor de telemetria do ETS2
 const TELEMETRY_URL = 'http://44.229.227.142:25555/api/ets2/telemetry';
@@ -22,13 +22,13 @@ const getTelemetryData = async () => {
         const response = await fetch(TELEMETRY_URL);
         if (!response.ok) {
             // Se o jogo não estiver aberto, o servidor de telemetria pode não responder
-            // console.error('ETS2 Telemetry Server não está respondendo. O jogo está aberto?');
+            console.error('ETS2 Telemetry Server não está respondendo. O jogo está aberto?');
             return null;
         }
         const data = await response.json();
         return data;
     } catch (error) {
-        // console.error('Erro ao buscar dados de telemetria:', error.message);
+        console.error('Erro ao buscar dados de telemetria:', error.message);
         return null;
     }
 };
@@ -54,5 +54,5 @@ io.on('connection', (socket) => {
 
 // Inicia o servidor
 server.listen(PORT, () => {
-    console.log(`Seu painel de telemetria está rodando em http://localhost:${PORT}`);
+    console.log(`Seu painel de telemetria está rodando em http://44.229.227.142:${PORT}`);
 });

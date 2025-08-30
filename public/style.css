@@ -1,0 +1,77 @@
+body {
+    font-family: sans-serif;
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    border-bottom: 2px solid #00c853;
+    padding-bottom: 10px;
+}
+
+.dashboard {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.data-box {
+    background-color: #424242;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+}
+
+.data-box h2 {
+    margin: 0 0 10px;
+    color: #00c853;
+}
+
+.data-box p {
+    margin: 0;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.data-box p span {
+    font-size: 1.2em;
+}
+
+
+/* Estilos para o histórico de entregas */
+.log-container {
+    margin-top: 40px;
+    background-color: #424242;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+#delivery-log {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+
+#delivery-log th, #delivery-log td {
+    padding: 12px 15px;
+    text-align: left;
+    border-bottom: 1px solid #555;
+}
+
+#delivery-log th {
+    background-color: #00c853;
+    color: #212121;
+    font-weight: bold;
+}
+
+#delivery-log tr:nth-child(even) {
+    background-color: #4f4f4f;
+}
+
+#delivery-log tr:hover {
+    background-color: #5a5a5a;
+}

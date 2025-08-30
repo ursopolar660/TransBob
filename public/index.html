@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Painel de Telemetria ETS2</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Painel de Telemetria - Euro Truck Simulator 2</h1>
+    <div class="dashboard">
+        <div class="data-box">
+            <h2>Velocidade</h2>
+            <p><span id="speed">0</span> km/h</p>
+        </div>
+        <div class="data-box">
+            <h2>RPM</h2>
+            <p><span id="rpm">0</span></p>
+        </div>
+        <div class="data-box">
+            <h2>Marcha</h2>
+            <p><span id="gear">N</span></p>
+        </div>
+        <div class="data-box">
+            <h2>Combustível</h2>
+            <p><span id="fuel">0</span> L (<span id="fuelPercentage">0</span>%)</p>
+        </div>
+        <div class="data-box">
+            <h2>Origem da Entrega</h2>
+            <p id="sourceCity">N/A</p>
+        </div>
+        <div class="data-box">
+            <h2>Destino da Entrega</h2>
+            <p id="destinationCity">N/A</p>
+        </div>
+        
+        <div class="data-box">
+            <h2>Distância Restante</h2>
+            <p><span id="estimatedDistance">0</span> km</p>
+        </div>
+        <div class="data-box">
+            <h2>Valor da Entrega</h2>
+            <p>€ <span id="jobIncome">0</span></p>
+        </div>
+        
+    </div>
+
+    <div class="log-container">
+        <h2>Histórico de Entregas</h2>
+        <table id="delivery-log">
+            <thead>
+                <tr>
+                    <th>Carga</th>
+                    <th>Origem</th>
+                    <th>Destino</th>
+                    <th>Renda (€)</th>
+                    <th>Data</th>
+                </tr>
+            </thead>
+            <tbody id="delivery-log-body">
+                </tbody>
+        </table>
+    </div>
+
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="client.js"></script>
+</body>
+</html>

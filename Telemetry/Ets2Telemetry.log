@@ -1,0 +1,48 @@
+﻿2025-08-18 10:34:52,235 [1   ] [INFO ] Running application on Microsoft Windows NT 6.2.9200.0 (64-bit) 
+2025-08-18 10:34:52,330 [1   ] [INFO ] Checking plugin DLL files...
+2025-08-18 10:34:52,330 [1   ] [INFO ] Validating ETS2 path: 'C:\Program Files (x86)\Euro Truck Simulator 2' ... OK
+2025-08-18 10:34:52,330 [1   ] [INFO ] Checking Firewall rule...
+2025-08-18 10:34:52,330 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall show rule dir=in name=all
+2025-08-18 10:34:52,769 [1   ] [INFO ] Checking ACL rule status...
+2025-08-18 10:34:52,769 [1   ] [INFO ] Running command line: 
+netsh http show urlacl url=http://+:25555/
+2025-08-18 10:34:52,868 [1   ] [INFO ] Found following network interfaces: 
+'{8410295A-A1DD-4C49-902F-5A49A22E741F}': 'Ethernet' (Down), 
+'{9ED95618-78B1-4D6B-9CC4-CB72309DA3FD}': 'Conexão Local* 9' (Down), 
+'{F8A81E9B-DB85-4705-9C78-087E7431F612}': 'Conexão Local* 10' (Down), 
+'{66F7AAB9-9229-46B3-84C8-BC12904E7D75}': 'Wi-Fi' (Up), 
+'{B4FEDACE-601F-11F0-A31A-806E6F6E6963}': 'Loopback Pseudo-Interface 1' (Up)
+2025-08-18 10:34:53,161 [1   ] [ERROR] System.Reflection.TargetInvocationException: Uma exceção foi acionada pelo destino de uma chamada. ---> System.Net.HttpListenerException: Falha ao ouvir no prefixo 'http://+:25555/' porque ele está em conflito com um registro existente na máquina.
+   em System.Net.HttpListener.AddAllPrefixes()
+   em System.Net.HttpListener.Start()
+   em Microsoft.Owin.Host.HttpListener.OwinHttpListener.Start(HttpListener listener, Func`2 appFunc, IList`1 addresses, IDictionary`2 capabilities, Func`2 loggerFactory)
+   em Microsoft.Owin.Host.HttpListener.OwinServerFactory.Create(Func`2 app, IDictionary`2 properties)
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   em System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   em System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   em Microsoft.Owin.Hosting.ServerFactory.ServerFactoryAdapter.Create(IAppBuilder builder)
+   em Microsoft.Owin.Hosting.Engine.HostingEngine.StartServer(StartContext context)
+   em Microsoft.Owin.Hosting.Engine.HostingEngine.Start(StartContext context)
+   em Microsoft.Owin.Hosting.Starter.DirectHostingStarter.Start(StartOptions options)
+   em Microsoft.Owin.Hosting.Starter.HostingStarter.Start(StartOptions options)
+   em Microsoft.Owin.Hosting.WebApp.StartImplementation(IServiceProvider services, StartOptions options)
+   em Microsoft.Owin.Hosting.WebApp.Start(StartOptions options)
+   em Microsoft.Owin.Hosting.WebApp.Start[TStartup](StartOptions options)
+   em Funbit.Ets.Telemetry.Server.MainForm.Start()
+2025-08-19 09:12:17,345 [1   ] [INFO ] Running application on Microsoft Windows NT 6.2.9200.0 (64-bit) 
+2025-08-19 09:12:18,021 [1   ] [INFO ] Checking plugin DLL files...
+2025-08-19 09:12:18,022 [1   ] [INFO ] Validating ETS2 path: 'C:\Program Files (x86)\Euro Truck Simulator 2' ... OK
+2025-08-19 09:12:18,030 [1   ] [INFO ] Checking Firewall rule...
+2025-08-19 09:12:18,034 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall show rule dir=in name=all
+2025-08-19 09:12:21,049 [1   ] [INFO ] Checking ACL rule status...
+2025-08-19 09:12:21,050 [1   ] [INFO ] Running command line: 
+netsh http show urlacl url=http://+:25555/
+2025-08-19 09:12:21,425 [1   ] [INFO ] Found following network interfaces: 
+'{8410295A-A1DD-4C49-902F-5A49A22E741F}': 'Ethernet' (Down), 
+'{9ED95618-78B1-4D6B-9CC4-CB72309DA3FD}': 'Conexão Local* 9' (Down), 
+'{F8A81E9B-DB85-4705-9C78-087E7431F612}': 'Conexão Local* 10' (Down), 
+'{66F7AAB9-9229-46B3-84C8-BC12904E7D75}': 'Wi-Fi' (Up), 
+'{B4FEDACE-601F-11F0-A31A-806E6F6E6963}': 'Loopback Pseudo-Interface 1' (Up)

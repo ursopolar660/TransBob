@@ -99,9 +99,12 @@ const updateTelemetryUI = (data) => {
 };
 
 // --- SOCKET ---
-socket.on('telemetry-update', updateTelemetryUI);
+// CORREÇÃO AQUI: Alterado de 'telemetry-update' para 'updateTelemetry'
+socket.on('updateTelemetry', updateTelemetryUI);
 
 // --- FALLBACK: API ---
+// Observação: seu server.js não possui a rota "/telemetry", então este fallback não funcionará.
+// A comunicação principal deve ocorrer via Socket.io.
 async function fallbackFetch() {
     try {
         const res = await fetch("/telemetry");
@@ -109,7 +112,7 @@ async function fallbackFetch() {
         const data = await res.json();
         updateTelemetryUI(data);
     } catch (err) {
-        console.warn("Falha no fallback /telemetry:", err);
+        // console.warn("Falha no fallback /telemetry:", err); // Opcional: descomente para ver o erro no console
     }
 }
 setInterval(fallbackFetch, 2000);

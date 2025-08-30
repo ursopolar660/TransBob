@@ -90,10 +90,10 @@ const updateTelemetryUI = (data) => {
     }
 
     // Atualiza dados do job
-    sourceCityElement.innerText = data.job?.sourceCity ?? '-';
-    destinationCityElement.innerText = data.job?.destinationCity ?? '-';
-    jobIncomeElement.innerText = (data.job?.income ?? 0).toLocaleString('pt-BR');
-    estimatedDistanceElement.innerText = data.navigation?.estimatedDistance
+    sourceCityElement.innerText = data.job.sourceCity ?? '-';
+    destinationCityElement.innerText = data.job.destinationCity ?? '-';
+    jobIncomeElement.innerText = (data.job.income ?? 0).toLocaleString('pt-BR');
+    estimatedDistanceElement.innerText = data.navigation.estimatedDistance
         ? (data.navigation.estimatedDistance / 1000).toFixed(1)
         : '0';
 };

@@ -49,14 +49,14 @@ const renderDeliveryLog = () => {
     });
 };
 
-// --- LÓGICA PRINCIPAL DE TELEMETRIA ---
-socket.on('telemetry-update', (data) => {
-    // <<--- ESTA É A NOVA LÓGICA DE DETECÇÃO - A MAIS CONFIÁVEL DE TODAS ---
+// --- FUNÇÃO PARA ATUALIZAR PAINEL ---
+const updateTelemetryUI = (data) => {
+    if (!data) return;
+
     const jobNowActive = data.navigation && data.navigation.estimatedDistance > 0;
 
-    // Lógica de detecção de início e fim de entrega
+    // Início / fim de entrega
     if (jobNowActive && !isJobActive ) {
-        // Início de uma nova entrega
         console.log("%cINÍCIO DE ENTREGA DETECTADO!", "color: lightgreen;");
         currentJobData = {
             cargo: data.job?.cargoName,
@@ -64,7 +64,6 @@ socket.on('telemetry-update', (data) => {
             destination: data.job?.destinationCity,
         };
     } else if (!jobNowActive && isJobActive) {
-        // Fim de uma entrega
         console.log("%cFIM DE ENTREGA DETECTADO! Salvando...", "color: red;");
 
         const finishedJob = {
@@ -81,8 +80,7 @@ socket.on('telemetry-update', (data) => {
     }
     isJobActive = jobNowActive;
 
-
-    // --- ATUALIZAÇÃO DO PAINEL EM TEMPO REAL ---
+    // --- Atualização do painel em tempo real ---
     if (data && data.truck) {
         const speedKph = data.truck.speed ?? 0;
         const engineRpm = data.truck.engineRpm ?? 0;
@@ -103,17 +101,32 @@ socket.on('telemetry-update', (data) => {
         fuelElement.innerText = '0';
         fuelPercentageElement.innerText = '0';
     }
-    const jobIncome = data.job.income;
-    const estimatedDistance = data.navigation.estimatedDistance;
-    sourceCityElement.innerText = data.job.sourceCity;
-    destinationCityElement.innerText = data.job.destinationCity;
+
+    const jobIncome = data.job?.income ?? 0;
+    const estimatedDistance = data.navigation?.estimatedDistance ?? 0;
+    sourceCityElement.innerText = data.job?.sourceCity ?? '-';
+    destinationCityElement.innerText = data.job?.destinationCity ?? '-';
     jobIncomeElement.innerText = jobIncome.toLocaleString('pt-BR');
-    if (estimatedDistance > 0) {
-        estimatedDistanceElement.innerText = (estimatedDistance / 1000).toFixed(1);
-    } else {
-        estimatedDistanceElement.innerText = '0';
-    }
+    estimatedDistanceElement.innerText = estimatedDistance > 0 ? (estimatedDistance / 1000).toFixed(1) : '0';
+};
+
+// --- RECEBE DADOS DO SOCKET ---
+socket.on('telemetry-update', (data) => {
+    updateTelemetryUI(data);
 });
+
+// --- FALLBACK: SE O SOCKET NÃO ENTREGAR DADOS, CONSULTA API ---
+async function fallbackFetch() {
+    try {
+        const res = await fetch("/telemetry");
+        if (!res.ok) return;
+        const data = await res.json();
+        updateTelemetryUI(data);
+    } catch (err) {
+        console.warn("Falha no fallback /telemetry:", err);
+    }
+}
+setInterval(fallbackFetch, 2000); // tenta atualizar a cada 2s
 
 // --- INICIALIZAÇÃO ---
 renderDeliveryLog();

@@ -8,51 +8,64 @@ const fetch = require('node-fetch');
 const app = express();
 const server = http.createServer(app);
 const io = socketIo(server);
-const PORT = 25555; // Porta onde nosso painel vai rodar
+const PORT = process.env.PORT || 3000; // Render exige variável PORT
 
-// URL do servidor de telemetria do ETS2
-const TELEMETRY_URL = 'http://44.229.227.142:25555/api/ets2/telemetry';
+app.use(express.json());
+app.use(express.static('public')); // arquivos estáticos (index.html, client.js etc.)
 
-// Servir os arquivos estáticos da pasta 'public'
-app.use(express.static('public'));
+// URL do servidor de telemetria do ETS2 (se quiser buscar direto)
+const TELEMETRY_URL = 'http://127.0.0.1:25555/api/ets2/telemetry';
 
-// Função para buscar os dados de telemetria
-const getTelemetryData = async () => {
-    try {
-        const response = await fetch(TELEMETRY_URL);
-        if (!response.ok) {
-            // Se o jogo não estiver aberto, o servidor de telemetria pode não responder
-            console.error('ETS2 Telemetry Server não está respondendo. O jogo está aberto?');
-            return null;
-        }
-        const data = await response.json();
-        return data;
-    } catch (error) {
-        console.error('Erro ao buscar dados de telemetria:', error.message);
-        return null;
-    }
-};
+// Últimos dados recebidos (via update ou busca direta)
+let latestTelemetry = {};
 
-// Lógica de comunicação em tempo real
+// ----------- ROTAS DE API -----------
+
+// Endpoint para receber dados enviados do script local
+app.post('/update', (req, res) => {
+    latestTelemetry = req.body;
+    console.log('Dados recebidos do cliente local.');
+    res.json({ status: 'ok' });
+});
+
+// Endpoint público para consultar os dados atuais
+app.get('/telemetry', (req, res) => {
+    res.json(latestTelemetry);
+});
+
+// ----------- SOCKET.IO -----------
+
+// Se quiser emitir em tempo real para os clientes conectados
 io.on('connection', (socket) => {
     console.log('Painel conectado!');
 
-    // A cada 100ms, busca os dados e envia para o frontend
+    // Envia dados a cada 500ms
     const interval = setInterval(async () => {
-        const data = await getTelemetryData();
-        if (data) {
-            // Emite um evento 'telemetry-update' com os dados para o cliente
-            socket.emit('telemetry-update', data);
+        // Se tiver dados do script local, usa eles
+        if (latestTelemetry && Object.keys(latestTelemetry).length > 0) {
+            socket.emit('telemetry-update', latestTelemetry);
+        } else {
+            // (opcional) busca direto do ETS2 se estiver rodando local
+            try {
+                const response = await fetch(TELEMETRY_URL);
+                if (response.ok) {
+                    const data = await response.json();
+                    socket.emit('telemetry-update', data);
+                }
+            } catch (err) {
+                console.error('Erro ao buscar dados diretos:', err.message);
+            }
         }
-    }, 100); // Intervalo de atualização (100ms = 10x por segundo)
+    }, 500);
 
     socket.on('disconnect', () => {
         console.log('Painel desconectado.');
-        clearInterval(interval); // Para o loop quando o cliente se desconecta
+        clearInterval(interval);
     });
 });
 
-// Inicia o servidor
+// ----------- INÍCIO DO SERVIDOR -----------
+
 server.listen(PORT, () => {
-    console.log(`Seu painel de telemetria está rodando em http://44.229.227.142:${PORT}`);
+    console.log(`Servidor rodando na porta ${PORT}`);
 });

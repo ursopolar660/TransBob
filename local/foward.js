@@ -1,28 +1,32 @@
 const http = require('http');
 const fetch = require('node-fetch');
-const https = require('https'); // Adicione esta linha
+const https = require('https');
 
-// O URL da sua aplicação no Render.com
-const REMOTE_SERVER = 'https://transbob-tg9l.onrender.com';
+// O URL da sua aplicação no Render.com - Verifique se está correto
+const REMOTE_SERVER = 'https://transbob.onrender.com';
 const PORT = 3000;
 
-// Cria um agente HTTPS para forçar uma conexão direta
+// Agente para forçar conexão direta (mantém a correção anterior)
 const httpsAgent = new https.Agent({
   keepAlive: true,
 });
 
 async function forwardData(data) {
+    // CORREÇÃO: Enviar dados para o endpoint específico /telemetry
+    const telemetryUrl = `${REMOTE_SERVER}/telemetry`; 
     try {
-        console.log(`Encaminhando dados para: ${REMOTE_SERVER}`);
-        const response = await fetch(REMOTE_SERVER, {
+        console.log(`Encaminhando dados para: ${telemetryUrl}`);
+        const response = await fetch(telemetryUrl, { // URL corrigido
             method: 'POST',
             body: JSON.stringify(data),
             headers: { 'Content-Type': 'application/json' },
-            agent: httpsAgent // Adicione esta linha para usar o agente direto
+            agent: httpsAgent 
         });
 
         if (!response.ok) {
             console.error(`Erro na resposta do servidor: ${response.status} ${response.statusText}`);
+        } else {
+            console.log("Dados encaminhados com sucesso!");
         }
     } catch (error) {
         console.error("Erro ao encaminhar dados:", error);

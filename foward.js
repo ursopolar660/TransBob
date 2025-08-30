@@ -2,7 +2,7 @@ const axios = require("axios");
 const io = require("socket.io-client");
 
 // Conecta no servidor do Render
-const socket = io("https://seu-app-no-render.onrender.com");
+const socket = io("https://transbob.onrender.com");
 
 setInterval(async () => {
   try {

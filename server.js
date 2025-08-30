@@ -11,7 +11,7 @@ const io = socketIo(server);
 const PORT = 3000; // Porta onde nosso painel vai rodar
 
 // URL do servidor de telemetria do ETS2
-const TELEMETRY_URL = 'http://172.19.0.1:25555/api/ets2/telemetry';
+const TELEMETRY_URL = 'http://44.229.227.142:25555/api/ets2/telemetry';
 
 // Servir os arquivos estáticos da pasta 'public'
 app.use(express.static('public'));

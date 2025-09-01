@@ -2,7 +2,7 @@ const http = require('http');
 const fetch = require('node-fetch');
 
 // ❗ MUITO IMPORTANTE: Verifique se este URL está correto!
-const REMOTE_SERVER_URL = 'https://transbob-tg9l.onrender.com';
+const REMOTE_SERVER_URL = 'https://transbob.onrender.com';
 const TELEMETRY_ENDPOINT = `${REMOTE_SERVER_URL}/telemetry`;
 const LOCAL_PORT = 3000;
 

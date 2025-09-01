@@ -61,7 +61,7 @@ const updateTelemetryUI = (data) => {
     if (!data) return;
     console.log('%c📊 DADOS RECEBIDOS!', 'color: cyan;', data); // Log para ver os dados a chegar
 
-    const jobNowActive = data.navigation?.estimatedDistance > 0;
+    const jobNowActive = data.navigation.estimatedDistance > 0;
 
     // Detecta início/fim de entrega
     if (jobNowActive && !isJobActive) {

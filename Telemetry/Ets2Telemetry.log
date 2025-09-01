@@ -46,3 +46,20 @@ netsh http show urlacl url=http://+:25555/
 '{F8A81E9B-DB85-4705-9C78-087E7431F612}': 'Conexão Local* 10' (Down), 
 '{66F7AAB9-9229-46B3-84C8-BC12904E7D75}': 'Wi-Fi' (Up), 
 '{B4FEDACE-601F-11F0-A31A-806E6F6E6963}': 'Loopback Pseudo-Interface 1' (Up)
+2025-08-30 08:36:14,119 [1   ] [INFO ] Running application on Microsoft Windows NT 6.2.9200.0 (64-bit) 
+2025-08-30 08:36:14,202 [1   ] [INFO ] Checking plugin DLL files...
+2025-08-30 08:36:14,202 [1   ] [INFO ] Validating ETS2 path: 'C:\Program Files (x86)\Euro Truck Simulator 2' ... OK
+2025-08-30 08:36:14,213 [1   ] [INFO ] Checking Firewall rule...
+2025-08-30 08:36:14,213 [1   ] [INFO ] Running command line: 
+netsh advfirewall firewall show rule dir=in name=all
+2025-08-30 08:36:14,782 [1   ] [INFO ] Checking ACL rule status...
+2025-08-30 08:36:14,782 [1   ] [INFO ] Running command line: 
+netsh http show urlacl url=http://+:25555/
+2025-08-30 08:36:14,898 [1   ] [INFO ] Found following network interfaces: 
+'{8410295A-A1DD-4C49-902F-5A49A22E741F}': 'Ethernet' (Down), 
+'{24112D98-B3C5-4BF0-969A-9C2C7F33E9B9}': 'vEthernet (Wi-Fi)' (Up), 
+'{9ED95618-78B1-4D6B-9CC4-CB72309DA3FD}': 'Conexão Local* 9' (Down), 
+'{F8A81E9B-DB85-4705-9C78-087E7431F612}': 'Conexão Local* 10' (Down), 
+'{66F7AAB9-9229-46B3-84C8-BC12904E7D75}': 'Wi-Fi' (Up), 
+'{B4FEDACE-601F-11F0-A31A-806E6F6E6963}': 'Loopback Pseudo-Interface 1' (Up), 
+'{41AE2AEB-CC7E-40C7-9FF8-C87E21CC6EC4}': 'vEthernet (Ethernet)' (Up)

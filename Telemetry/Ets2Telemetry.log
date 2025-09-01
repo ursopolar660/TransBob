@@ -18546,3 +18546,1914 @@ Nome do parâmetro: requestUri
    em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
    em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
    em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:44:50,426 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:44:51,422 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:44:52,418 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:44:53,430 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:44:54,437 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:44:55,434 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:44:56,433 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:44:57,434 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:44:58,438 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:44:59,431 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:00,441 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:01,436 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:02,433 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:03,436 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:04,434 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:05,437 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:06,438 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:07,435 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:08,446 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:09,462 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:10,463 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:11,463 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:12,466 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:13,473 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:14,468 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:15,472 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:16,473 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:17,470 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:18,467 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:19,466 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:20,464 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:21,463 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:22,468 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:23,469 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:24,465 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:25,464 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:26,464 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:27,477 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:28,480 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:29,487 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:30,487 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:31,484 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:32,480 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:33,494 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:34,509 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:35,524 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:36,538 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:37,536 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:38,530 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:39,535 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:40,533 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:41,533 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:42,530 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:43,530 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:44,529 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:45,526 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:46,528 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:47,526 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:48,534 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:49,528 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:50,526 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:51,540 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:52,547 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:53,543 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:54,550 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:55,548 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:56,548 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:57,544 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:58,542 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:45:59,556 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:00,567 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:01,567 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:02,565 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:03,562 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:04,558 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:05,557 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:06,557 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:07,571 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:08,583 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:09,574 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:10,585 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:11,597 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:12,589 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:13,589 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:14,587 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:15,598 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:16,597 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:17,595 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:18,590 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:19,602 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:20,609 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:21,610 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:22,606 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:23,604 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:24,617 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:25,610 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:26,607 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:27,611 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:28,611 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:29,606 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:30,618 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:31,624 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:32,631 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:33,637 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:34,638 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:35,649 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:36,658 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:37,650 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:38,658 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:39,657 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:40,653 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:41,663 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:42,674 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:43,670 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:44,669 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:45,667 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:46,681 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:47,694 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:48,692 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:49,693 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:50,691 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:51,689 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:52,691 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:53,689 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:54,694 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:55,695 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:56,702 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:57,698 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:58,697 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:46:59,703 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:00,705 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:01,699 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:02,701 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:03,706 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:04,708 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:05,712 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:06,713 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:07,717 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:08,725 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:09,724 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:10,727 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:11,742 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:12,756 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:13,755 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:14,744 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:15,748 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:16,752 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:17,755 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:18,758 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:19,761 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:20,770 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:21,772 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:22,764 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:23,764 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:24,765 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:25,764 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:26,761 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:27,763 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:28,762 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:29,760 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:30,765 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:31,763 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:32,760 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:33,762 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:34,760 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:35,771 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:36,788 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:37,802 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:38,799 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:39,801 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:40,798 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:41,801 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:42,794 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:43,791 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:44,801 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:45,798 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:46,793 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:47,792 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:48,791 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:49,802 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:50,801 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:51,800 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:52,796 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:53,793 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:54,792 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:55,795 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:56,800 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:57,792 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:58,798 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:47:59,793 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:00,801 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:01,804 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:02,820 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:03,831 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:04,985 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:05,987 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:07,027 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:08,031 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:09,030 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:10,027 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:11,025 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:12,026 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:13,040 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:14,054 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:15,065 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:16,060 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:17,057 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:18,070 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:19,084 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:20,083 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:21,078 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:22,129 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:23,128 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:24,124 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:25,129 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:26,126 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:27,126 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:28,121 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:29,119 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:30,130 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:31,141 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:32,138 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:33,149 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:34,162 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:35,154 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:36,154 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:37,151 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:38,151 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:39,162 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:40,163 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:41,155 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:42,154 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:43,152 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:44,162 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:45,177 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:46,171 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:47,170 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:48,166 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:49,180 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:50,187 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:51,182 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:52,193 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:53,205 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:54,199 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:55,212 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:56,225 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:57,219 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:58,219 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:48:59,213 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:49:00,219 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:49:01,216 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:49:02,214 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:49:03,222 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:49:04,226 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:49:05,242 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:49:06,257 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:49:07,267 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:49:08,264 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:49:09,260 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:49:10,270 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:49:11,265 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:49:12,270 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:49:13,268 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:49:14,268 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:49:15,273 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:49:16,284 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:49:17,293 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:49:18,303 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:49:19,315 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:49:20,315 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:49:21,314 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:49:22,310 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()
+2025-09-01 19:49:23,319 [1   ] [ERROR] System.ArgumentException: Apenas esquemas "http" e "https" são permitidos.
+Nome do parâmetro: requestUri
+   em System.Net.Http.HttpRequestMessage.InitializeValues(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpRequestMessage..ctor(HttpMethod method, Uri requestUri)
+   em System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   em System.Net.Http.HttpClientExtensions.PostAsync[T](HttpClient client, String requestUri, T value, MediaTypeFormatter formatter, MediaTypeHeaderValue mediaType, CancellationToken cancellationToken)
+   em Funbit.Ets.Telemetry.Server.MainForm.<broadcastTimer_Tick>d__22.MoveNext()

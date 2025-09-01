@@ -3,7 +3,7 @@ const fetch = require('node-fetch');
 
 // ❗ MUITO IMPORTANTE: Verifique se este URL está correto!
 const REMOTE_SERVER_URL = 'https://transbob.onrender.com';
-const TELEMETRY_ENDPOINT = `${REMOTE_SERVER_URL}/telemetry`;
+const TELEMETRY_ENDPOINT = `${REMOTE_SERVER_URL}/`;
 const LOCAL_PORT = 3000;
 
 async function forwardData(data) {

@@ -28,7 +28,7 @@ app.get("/", (req, res) => {
 
 // --- Rota para Receber Telemetria ---
 // O seu script local (foward.js) vai enviar os dados para cá
-app.post("/telemetry", (req, res) => {
+app.post("/", (req, res) => {
   const telemetryData = req.body;
   console.log("✅ [Render Server] Dados de telemetria recebidos via POST:", telemetryData);
 

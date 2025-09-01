@@ -1,4 +1,4 @@
-const getTelemetry = require('./telemetry-client.js'); // Ou './Telemetry.js', dependendo do nome real
+const getTelemetry = require('./local/telemetry-client.js'); // Ou './Telemetry.js', dependendo do nome real
 const fetch = require('node-fetch');
 
 const REMOTE_TELEMETRY_ENDPOINT = 'https://transbob.onrender.com'; // Ajuste o URL do Render
